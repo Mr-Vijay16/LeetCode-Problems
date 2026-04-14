@@ -14,3 +14,11 @@ for i in range(len(nums)):
             min_dist = distance
 
 print("Minimum Distance:", min_dist)
+
+#Examole
+#Enter numbers: 1 2 3 4 5
+#Enter target: 5
+#Enter start index: 3
+
+#output
+#Minimum Distance: 1
