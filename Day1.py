@@ -20,3 +20,11 @@ sol = Solution()
 result = sol.getMinDistance(nums, target, start)
 
 print("Minimum Distance:", result)
+
+#Examole
+#Enter numbers: 1 2 3 4 5
+#Enter target: 5
+#Enter start index: 3
+
+#output
+#Minimum Distance: 1
