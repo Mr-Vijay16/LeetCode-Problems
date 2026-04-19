@@ -14,5 +14,11 @@ while i < len(nums1) and j < len(nums2):
     else:
         i += 1
 
-# Output
+
 print("Maximum Distance:", max_dist)
+
+#Sample Input
+#Enter nums1 (space separated): 55 30 5 4 2
+#Enter nums2 (space separated): 100 20 10 10 5
+#output
+#Maximum Distance: 2
