@@ -76,3 +76,19 @@ print("Rotated Grid:")
 
 for row in result:
     print(row)
+
+#Enter number of rows: 4
+#Enter number of columns: 4
+#Enter matrix rows:
+#1 2 3 4
+#5 6 7 8
+#9 10 11 12
+#13 14 15 16
+#Enter number of rotations: 2
+
+#output
+#Rotated Grid:
+#[3, 4, 8, 12]
+#[2, 11, 10, 16]
+#[1, 7, 6, 15]
+#[5, 9, 13, 14]
